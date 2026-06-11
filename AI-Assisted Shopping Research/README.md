@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 ### 3. Get a Gemini API key (free)
 
-Sign up at [aistudio.google.com](https://aistudio.google.com) → **Get API key** → gratis tanpa billing.
+Sign up at [aistudio.google.com](https://aistudio.google.com) → **Get API key** 
 
 ### 4. (Optional) Download the full dataset
 
