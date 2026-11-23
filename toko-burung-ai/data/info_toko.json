@@ -1,0 +1,16 @@
+{
+  "nama_toko": "Toko Burung Kicau Jaya",
+  "catatan_pemilik": "GANTI semua isi file ini dengan data toko yang asli.",
+  "alamat": "Jl. Contoh No. 12, Kota Anda",
+  "google_maps": "https://maps.google.com/?q=Toko+Burung",
+  "nomor_whatsapp": "6281234567890",
+  "jam_buka": {
+    "Senin - Sabtu": "07.00 - 17.00",
+    "Minggu": "07.00 - 12.00",
+    "Hari libur nasional": "Tutup"
+  },
+  "metode_pembayaran": ["Tunai", "Transfer bank", "QRIS"],
+  "pengiriman": "Pakan, vitamin, dan aksesoris bisa dikirim lewat kurir. Burung hidup hanya bisa diambil langsung di toko atau diantar untuk area dalam kota (ongkir menyesuaikan jarak).",
+  "garansi": "Burung dicek sehat bersama pembeli saat diambil. Keluhan kesehatan dalam 1x24 jam setelah pembelian silakan hubungi WhatsApp toko.",
+  "kebijakan_satwa": "Toko hanya menjual burung hasil penangkaran dan tidak menjual satwa yang dilindungi undang-undang."
+}

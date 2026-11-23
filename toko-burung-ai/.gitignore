@@ -1,0 +1,5 @@
+__pycache__/
+.pytest_cache/
+.streamlit/secrets.toml
+# Data penjualan asli toko tidak perlu ikut di-upload ke GitHub
+data/penjualan.csv
